@@ -1,0 +1,178 @@
+.categories{
+    background-color: #F0FFF0;
+}
+.container{
+    padding-bottom: 50px;
+}
+.bg-light{
+    background-color: #F0FFF0!important;
+}
+.navbar-brand img{
+        width: 198px;
+        height: 59px;
+}
+.collapse ul li a{
+    color: black;
+    font-weight: 600;
+    font-size: 16px;
+}
+.any{
+    color: #21B573;
+
+}
+.letter{
+    color: #FD511A;
+    font-size: 16px;
+    padding-top:
+}
+.row h1{
+    font-size: 48px;
+    font-weight: 700;
+}
+.row h2{
+    font-size: 40px;
+    font-weight: 700;
+}
+.get-button{
+    background-color: #21B573;
+    border: none;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 33px;
+    cursor: pointer;
+}
+ .cat img{
+     padding-bottom: 12px;
+ }
+ 
+.cat1{
+    background: #F8FFFB;
+    border-radius: 10px;
+    padding: 5px 40px;
+     
+
+      
+}
+.cat2{
+    background: #FFFFFF;
+    box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    padding: 5px 40px;
+     
+}
+.cat3{
+    background: #F8FFFB;
+    border-radius: 10px;
+    padding: 5px 40px;
+     
+}
+.cat4{
+    background: #F8FFFB;
+    border-radius: 10px;
+    padding: 5px 40px;
+  
+}
+
+.cat1 img{
+    width: 66px;
+    height: 100px;
+          
+}
+.cat2 img{
+    width: 66px;
+    height: 100px;
+}
+.cat3 img{
+    width: 66px;
+    height: 100px;
+}
+.cat4 img{
+    width: 66px;
+    height: 100px;
+}
+.online{
+    text-align: center;
+    color: #413960;
+    font-weight: 700;
+    font-size: 36px
+
+
+}
+.card-body h5{
+    font-weight: 500;
+    color: #2f2264;
+}
+.card-body form{
+    padding-top: 40px;
+}
+.card-text img{
+    width: 18px;
+    height: 20px;
+}
+.card-text small{
+    font-size: 16px;
+    font-weight: 500;
+    color: #585859;
+     
+}
+.card-text span{
+    font-size: 16px;
+    font-weight: 500;
+    color: #585859;
+     
+}
+.icoo span{
+     float:right;
+ }
+ .test{
+     text-align: center;
+     color:#000000;
+    font-weight: 700;
+    font-size: 36px;
+    padding-bottom: 20px;
+    
+ }
+ .f-img img{
+     float: left;
+    width: 120px;
+    height: 120px;
+    margin-left: 200px;
+     
+ }
+ .write p{
+     color:#000000;;
+    font-weight: 500;
+    font-size: 16px
+    
+
+ }
+ .write{
+     margin-right: 130px;
+     padding-top: 20px;
+     width: 600px;
+    float: right;
+ }
+
+  .clear{
+      clear: both;
+  }
+.con{
+    padding-top: 55px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: #282531;
+    color: white;
+}
+.sm{
+    padding-top: 100px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.con ul li{
+     
+    list-style-type: none;
+}
+.con ul li a:hover{
+    color: #21B573;
+}
